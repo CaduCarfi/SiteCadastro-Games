@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    background-image: url(Imagens/SiteCadastro.png);
+}
+
+header {
+    background-color: white;
+}
+nav {
+    background-color: black;
+    color: white;
+    padding-bottom: 50px;
+}
+
+main {
+    padding-top: 100px;
+}
+
+article {
+    width: 300px;
+    padding-left: 100px;
+    padding-top: 600px;
+}
